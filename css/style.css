@@ -17,4 +17,8 @@ body {
 	padding: 0 45px 20px;
 }
 
+[attribute = h2] {
+  color: rgb(134, 158, 149)
+}
+
 /* Write all remaining styles here */
