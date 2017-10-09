@@ -22,8 +22,7 @@ body {
 }
 
 .mainpic {
-  border-style: solid;
-  border-color: rgb(134, 158, 149);
+  border:5px solid rgb(134, 158, 149);
 }
 
 /* Write all remaining styles here */
