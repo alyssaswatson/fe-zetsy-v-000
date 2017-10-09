@@ -21,6 +21,9 @@ body {
   color: rgb(134, 158, 149);
 }
 
+.head2 {
+  font-size: 22px;
+}
 .mainpic {
   border:5px solid rgb(134, 158, 149);
 }
